@@ -24,7 +24,6 @@
  Based on the analysis, i recommend this:
  1. Acurate records of clients data and profit
 ## References
- Github
- tutor
+ Github, My tutor
 
   
